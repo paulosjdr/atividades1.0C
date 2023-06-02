@@ -1,3 +1,5 @@
+// Efetuar a leitura de dois valores numéricos inteiros representados pelas variáveis A e B e apresentar o resultado da diferença do maior valor pelo menor valor.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
@@ -20,7 +22,7 @@ int main()
         diferenca = B - A;
     }
 
-    printf("A diferen�a entre o maior e o menor valor �: %d\n", diferenca);
+    printf("A diferença entre o maior e o menor valor é: %d\n", diferenca);
 
 
     return 0;
