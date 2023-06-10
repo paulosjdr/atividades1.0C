@@ -48,8 +48,9 @@ int main() //Ponto de entrada do programa.
     O bloco "do-while" é encerrado com a condição "(A != 0 && B != 0)". Isso significa que o loop
     continuará enquanto ambos A e B forem diferentes de zero.
     */
-    return 0;
-    /*O programa retorna 0, indicando que foi concluído com sucesso. O programa continua repetindo esse processo
-    até que o usuário digite zero para ambos os números.
-    */
+return 0;
+/*
+O programa retorna 0, indicando que foi concluído com sucesso. O programa continua repetindo esse processo
+até que o usuário digite zero para ambos os números.
+*/
 }
